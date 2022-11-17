@@ -1,1 +1,1 @@
-# react-custom-template
+# React custom template based on Create React App.
