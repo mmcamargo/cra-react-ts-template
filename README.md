@@ -4,14 +4,14 @@ This is a template repository for creating React projects with TypeScript using 
 
 ## Table of Contents
 
-- [CRA React TypeScript Template](#cra-react-typescript-template)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+-   [CRA React TypeScript Template](#cra-react-typescript-template)
+    -   [Table of Contents](#table-of-contents)
+    -   [Description](#description)
+    -   [Technologies](#technologies)
+    -   [Installation](#installation)
+    -   [Usage](#usage)
+    -   [Contributing](#contributing)
+    -   [License](#license)
 
 ## Description
 
@@ -44,4 +44,4 @@ This repository is not currently accepting contributions.
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0).
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
